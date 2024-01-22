@@ -1,0 +1,9 @@
+<resources>
+
+  <style name="Theme.AnimeSearch" parent="Theme.Material3.DayNight.NoActionBar">
+    <item name="colorPrimary">@color/red_regular</item>
+    <item name="colorSecondary">@color/yellow_regular</item>
+    <item name="android:statusBarColor">@color/blue_medium</item>
+  </style>
+
+</resources>
